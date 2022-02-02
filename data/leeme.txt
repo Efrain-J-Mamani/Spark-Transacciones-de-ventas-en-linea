@@ -1,0 +1,3 @@
+
+descomprimir los datos para su ejecucion
+y testeo del proyecto.
